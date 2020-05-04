@@ -73,8 +73,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div id="body">
 		<p>Botões</p>
 
-		<button id="cadastrarNovo">Cadastrar Novo</button>
-		<button id="buscarContato">Buscar Contato</button>
+		<button id="cadastrarNovo"><a href="Welcome/cadastrarNovoContato">Cadastrar Novo</a></button>
+		<button id="buscarContato"><a href="Welcome/buscarContato">Buscar Contato</a></button>
 
 		<br><br>
 	</div>
